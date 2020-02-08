@@ -1,0 +1,13 @@
+camara  
+C:\apache-maven-3.6.3 
+C:\apache-tomcat-9.0.30 
+C:\glassfish5 
+C:\Intel 
+C:\PerfLogs 
+C:\Program Files 
+C:\Program Files (x86) 
+C:\Python27 
+C:\tmp 
+C:\Users 
+C:\Windows 
+C:\xampp 
